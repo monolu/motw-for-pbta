@@ -5,8 +5,8 @@
   src: url("./fonts/3rdMan.ttf") format("truetype");
 }
 
-stat-value {
-  color: white;
+.stat-value {
+  color: white !important;
 }
 
 .pbta.sheet:is(.actor, .item) section.window-content {
