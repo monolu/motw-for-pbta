@@ -14,6 +14,7 @@
 
 .pbta.sheet .sheet-attributes .cell--stats .stat, .pbta.sheet .tabs .item {
   background: #333333;
+  color: white;
   border-color: #333333;
 }
 
@@ -56,6 +57,7 @@
 
 .pbta.sheet .tabs .item.active {
   background: #333333;
+  color: white;
   font-weight: normal;
   text-shadow: 0 0 5px #063c4f;
 }
