@@ -5,6 +5,10 @@
   src: url("./fonts/3rdMan.ttf") format("truetype");
 }
 
+stat-value {
+  color: white;
+}
+
 .pbta.sheet:is(.actor, .item) section.window-content {
   background-color: #e6e6e6;
   color: black;
@@ -20,6 +24,7 @@
 
 .pbta.sheet .sheet-attributes .cell--stats .stat :is(.cell__title, .stat-icon) {
   text-shadow: 0 0 5px #063c4f;
+  color: white;
 }
 
 .pbta.sheet .sheet-attributes .cell--stats .stat:hover :is(.cell__title, .stat-icon) {
